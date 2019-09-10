@@ -5,8 +5,8 @@ import getpass
 
 print("Enter password. Password will not display whilst typing.")
 APPROVE_AGE          = 120 # How old a post has to be (in seconds) before being approved. Default: 2 minutes.
-CONFIG_CLIENT_ID     = "1VQv3VLATtgQ1w" # Client ID from /prefs/apps
-CONFIG_CLIENT_SECRET = "-tr9CNQX6Ar05yXhJLURcNVbUCg" # Client secret from /prefs/apps
+CONFIG_CLIENT_ID     = "VpzTL7raRIbgrA" # Client ID from /prefs/apps
+CONFIG_CLIENT_SECRET = "XV-orqjA1xpEmsFUvVoMuW16d3U" # Client secret from /prefs/apps
 CONFIG_USERNAME      = "bjapprovebot" # Username for the bot account
 CONFIG_PASSWORD      = "iapprovepenises"
 CONFIG_SUBREDDITS    = ["penis"] # Subreddit(s) the script runs on
