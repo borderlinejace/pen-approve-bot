@@ -10,7 +10,7 @@ CONFIG_CLIENT_SECRET = "-tr9CNQX6Ar05yXhJLURcNVbUCg" # Client secret from /prefs
 CONFIG_USERNAME      = "bjapprovebot" # Username for the bot account
 CONFIG_PASSWORD      = "iapprovepenises"
 CONFIG_SUBREDDITS    = ["penis"] # Subreddit(s) the script runs on
-CONFIG_SCRIPTHOST    = "borderlinejace" # Your Reddit username
+CONFIG_SCRIPTHOST    = "bjapprovebot" # Your Reddit username
 CONFIG_USER_AGENT    = "Auto approves posts for /r/{} and more. Run by /u/{}".format(CONFIG_SUBREDDITS[0],
                                                                                      CONFIG_SCRIPTHOST)
 
